@@ -1,0 +1,1 @@
+{"args": {"batch_size": 8, "dim": 200, "do_predict": true, "do_train": true, "earlystop": 1, "epoches": 10, "l_r": 1e-05, "len_d": 150}, "dev-kpi": [1.9581, 1.5361, 1.4385, 1.3574, 1.3752, 1.3129, 1.3015, 1.2968, 1.309, 1.2777], "best-epoch": 10}
